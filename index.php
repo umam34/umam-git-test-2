@@ -6,5 +6,9 @@
   </head>
   <body>
 <h1>Windah basudara</h1>
+  <ul>
+    <li>satu</li>
+    <li>dua</li>
+  </ul>
   </body>
 </html>
